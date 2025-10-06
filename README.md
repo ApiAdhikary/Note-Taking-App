@@ -22,7 +22,7 @@ A Simple Android Note-Taking application built with Jetpack Compose and MVVM arc
 
 ## 📦 APK Download
 
-Link - https://drive.google.com/file/d/1-qUzRMhumCZGQhnnV25DQdIgEOgr-YD1/view?usp=drive_link](https://drive.google.com/file/d/10hmIEjCSqAJpGCuZv7XYa3a7hNs585p8/view?usp=sharing
+Link - https://drive.google.com/file/d/10hmIEjCSqAJpGCuZv7XYa3a7hNs585p8/view?usp=sharing
 
 ## 👨‍💻 Author
 
